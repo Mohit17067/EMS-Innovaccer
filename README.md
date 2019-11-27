@@ -26,3 +26,5 @@ The current password for updating host details is - **host**.
 Email Id Made for the Application - **entry.management.software@gmail.com**
 
 PS - Remember current password to update host details - **host**
+
+**The apk for the application is provided in the repository - `ems.apk`**
