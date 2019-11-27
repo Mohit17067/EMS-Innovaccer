@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">E M S</string>
+    <string name="Name">Name</string>
+    <string name="Contact">Contact Number</string>
+    <string name="Email">Email Address</string>
+    <string name="Save">Check In</string>
+    <string name="EMS_email">entry.management.software@gmail.com</string>
+    <string name="EMS_pswd">entry management software</string>
+</resources>
