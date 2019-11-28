@@ -2,7 +2,9 @@
 An Entry Management System made with Android.<br> Visitor can check-in and check-out with their details. Host can update the details. Messages are generated and sent automatically to the concerned party.
 
 ## Functionality
-![GIF FOR PROJECT](https://github.com/Mohit17067/EMS-Innovaccer/blob/master/app.gif "GIF for project")
+<p align="center">
+ <img src="https://github.com/Mohit17067/EMS-Innovaccer/blob/master/app.gif" alt="GIF FOR Project" width="300" height="500" >
+</p>
 
 ### Main Page
 The application starts with a simple UI providing options to the user using `Radio Button`. User has to choose an options and click GO `Button` to proceed.<br>
